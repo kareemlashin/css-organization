@@ -1,0 +1,18 @@
+
+// * https://github.com/Horsed/smacss-with-sass-and-bem-cheat-sheet
+// base 
+// ~=> css style in tags
+html, body, form { margin: 0; padding: 0; }
+
+// layout
+// ^ big section section-name 
+
+// module
+nav{}
+header{}
+// state 
+.is-close{}
+.is-open{}
+// theme 
+.theme{}
+.theme-two{}

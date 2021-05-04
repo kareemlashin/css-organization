@@ -1,0 +1,21 @@
+
+// ~ skin
+/* 
+* Colors
+* Fonts
+* Shadows
+* Gradient
+*/
+.comment-structure{
+&--name-skin{
+    color: blue;
+}
+}
+// & structure  
+/* 
+* Height
+* Width
+* Margins
+* Padding
+* Overflow
+*/

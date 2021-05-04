@@ -1,0 +1,16 @@
+
+.test{
+    color:green;
+    &__error{
+            color:red;
+
+    }
+    &__success{
+        color:blue
+    }
+    &--modifier{
+        color:pink
+
+    }
+}
+
